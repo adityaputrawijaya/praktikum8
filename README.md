@@ -25,3 +25,4 @@ data = {}
 ![gambar1](gambar/gb7.png)
 
 ## Output Program
+![gambar1](IMG-20221213-WA0028.jpg)
